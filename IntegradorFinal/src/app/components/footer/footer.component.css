@@ -1,0 +1,10 @@
+.row{
+    background: rgb(136, 188, 206);
+}
+footer{
+    color:rgb(251, 253, 255);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
